@@ -11,3 +11,8 @@ Working on different project this term and the previous ones, the bast route in 
 •	What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
 Computer scientist responsivities are designing developing and analyzing software and hardware. By doing that they solve problems and innovate the world of technology for latest and greatest product. For the project we have worked on this term we have solved designed, and developed a program that handles data from a server and created a virtualization to better display the data that is more readable to analyses. 
+![Capture1](https://user-images.githubusercontent.com/41029796/221330564-7af5ef65-9d14-4fb3-b25f-8b08fda8992d.JPG)
+![Capture2](https://user-images.githubusercontent.com/41029796/221330572-07348732-3956-4260-b153-26ac409046b2.JPG)
+![Capture3](https://user-images.githubusercontent.com/41029796/221330585-6e24ecc0-7e14-4cc2-aea7-e94143edd87e.JPG)
+![Capture4](https://user-images.githubusercontent.com/41029796/221330594-3e5b8290-0b03-483e-bc5d-32039a86330f.JPG)
+![Capture5](https://user-images.githubusercontent.com/41029796/221330595-27b5d076-c141-4e6e-9143-899ef190052e.JPG)
